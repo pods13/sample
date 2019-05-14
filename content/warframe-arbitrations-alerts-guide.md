@@ -1,6 +1,6 @@
 ---
 title: 'Warframe Arbitrations: Lethal Alerts Guide'
-date: 2019-05-14T22:47:25.783Z
+date: 2019-05-14T22:48:28.051Z
 layout: post
 rewards:
   - RotationA: 1300 Endo Common (36.50%)
